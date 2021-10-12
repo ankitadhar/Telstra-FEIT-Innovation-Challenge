@@ -1,8 +1,7 @@
 # Telstra-FEIT-Innovation-Challenge
 Telstra &amp; Faculty of Engineering and Information Technology (FEIT) Innovation Challenge 2021
 
-# Problem Statement
-# Theme/problem statement:
+# Problem Statement [Theme/problem statement]:
 
 Agriculture is critical to the human race. According to the UN, we’ll need to feed and clothe 10 billion people by 2050. And we need to do it sustainably and safely.
 
